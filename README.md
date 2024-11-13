@@ -1,9 +1,8 @@
-Download Individual Files
-If you only want to download a specific file:
+### 2. Download Individual Files
 
-Navigate to the file within the repository on GitHub.
-Click on the file name to open it.
-Once the file is open, click the "Raw" button located near the top-right of the file view.
-This will open the raw file content in a new tab.
-Right-click and choose "Save As" to download the file to your local machine.
-For .pbix files, GitHub will prompt you to save the file directly.
+To download a specific file (e.g., a `.pbix` file):
+
+1. Navigate to the file you want to download within the repository.
+2. Click on the file name to open it.
+3. Click the **"Raw"** button located near the top-right of the file view.
+4. Right-click the page and select **"Save As"** to download the file to your computer.
